@@ -1,6 +1,6 @@
 ![Banner](Images/banner.png?)
 
-# EeveeSpotifyReincarnated
+# EeveeSpotifyReincarnated.
 
 **Maintainers:** [jaydenjcpy](https://github.com/jaydenjcpy) & [faroukbmiled](https://github.com/faroukbmiled) & [Mod4](https://github.com/M0d-4) <br />
 **Last Update:** `10/5/26` **Spotify Version:** `9.1.88`
